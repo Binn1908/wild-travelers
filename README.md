@@ -16,6 +16,10 @@ L'application permet à l'utilisateur de :
 - **Visualiser** la répartition des établissements à travers la France via plusieurs graphiques
 - **Tester** un modèle de classification NLP qui prédit le type d'un établissement à partir de sa description
 
+## Source des données
+
+Les données proviennent de [DATAtourisme](https://www.datatourisme.fr), la plateforme nationale d'information touristique en open data.
+
 ## Stack technique
 
 - **Streamlit** — interface web interactive
