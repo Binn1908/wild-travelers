@@ -2,6 +2,8 @@
 
 **Wild Travelers** est une application interactive de découverte d'hébergements et de restaurants en France, développée dans le cadre d'un projet à la [Wild Code School](https://www.wildcodeschool.com/).
 
+![Aperçu de l'application](assets/screenshots/app_preview.png)
+
 👉 [Accéder à l'application](https://wild-travelers.streamlit.app)
 
 ---
